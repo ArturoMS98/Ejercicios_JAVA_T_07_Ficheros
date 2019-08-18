@@ -2,7 +2,7 @@ package multiplicacion_rusa;
  /***********************************************************************************************************************
  * @author baha                                                                                                         *
  * <p>fecha de inicializacion: Aug 14, 2019 6:58:50 PM<p>                                                               *
- * <p>nombre del proyecto: Multiplicacion_Rusa.java<p>                                                                           *
+ * <p>nombre del proyecto: Multiplicacion_Rusa.java<p>                                                                  *
  * <p>Anteriores versiones en:</p>                                                                                      *
  * <p><a href="https://github.com/BahamutEscarlata/Ejercicios_JAVA_T_07_Ficheros">GIT</a></p>                           *
  ************************************************************************************************************************
@@ -27,7 +27,7 @@ public class Multiplicacion_Rusa {
     *                                                                                                                   *
     * <h1>MÉTODO MAIN</h1>                                                                                              *
     * <p>Funcion:</p>                                                                                                   *
-    * <p>Acceder al método multiplicacionRusa y dar el resultado de multiplicar dos números.</p>
+    * <p>Acceder al método multiplicacionRusa y dar el resultado de multiplicar dos números.</p>                        *
     *                                                                                                                   *
     ********************************************************************************************************************/
     public static void main(String[] args) {
@@ -48,11 +48,11 @@ public class Multiplicacion_Rusa {
 
     /**_________________________________________________________________________________________________________________
      | ~~~~<p>Función del metodo:</p>~~~~                                                                               |
-     | <p></p>
+     | <p>Realizar la multiplicacion rusa y devolver el resultado de dicha operacion</p>                                |
      | ~~~~<p>Parámetros:</p>~~~~                                                                                       |
-     | @param 
-     | @return 
-     | ~~~~<p>Método dirigido a: FrontEnd //  BackEnd</p>~~~~                                                                      |
+     | @param numero1 y @param numero2 son los factores de la multiplicacion                                            |
+     | @return el resultado de la multiplicacion                                                                        |
+     | ~~~~<p>Método dirigido a:   BackEnd</p>~~~~                                                                      |
      |_________________________________________________________________________________________________________________*/
     static int multiplicacionRusa(int numero1, int numero2)
     {
