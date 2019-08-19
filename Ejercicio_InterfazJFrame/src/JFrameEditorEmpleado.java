@@ -20,6 +20,8 @@ import javax.swing.DefaultListModel;
  * @author baha
  * tiempo hasta decidir parar, aunque con descanso de 10 min cada media hora, y alguna parada
  * que otra: 5 horas 20 minutos, aun no hemos empezado con eventos.
+ * Acabados eventos, falta layout manager pero se hara en otro apartado: 2 horas, 6 minutos. Sin descansos.
+ * vamos a la version 2.0
  */
 public class JFrameEditorEmpleado extends javax.swing.JFrame {
 
